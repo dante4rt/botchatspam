@@ -6,7 +6,7 @@ Python code that will help you with a repetitive task, like this: <br><br>
 You can follow these easy tutorial below.
 <br><br>
 
-- Clone this repo:
+- Clone this repository:
 
 ```
 git clone https://github.com/dante4rt/botchatspam.git
